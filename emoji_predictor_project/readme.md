@@ -1,1 +1,1 @@
-# In this project we use glove word embeddings to build a model that predicts emojis for a given text. We are provided with a small test and train dataset.
+# In this project we use glove word embeddings to build a model that predicts emojis for a given text. We are provided with a small test and train dataset. Note the glove embedding file can be downloaded from [here]([I'm an inline-style link](https://www.google.com))
