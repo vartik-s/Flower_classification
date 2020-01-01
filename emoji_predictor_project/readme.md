@@ -1,0 +1,1 @@
+# In this project we use glove word embeddings to build a model that predicts emojis for a given text. We are provided with a small test and train dataset.
